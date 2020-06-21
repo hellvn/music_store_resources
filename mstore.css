@@ -37,7 +37,7 @@ marquee{
     text-decoration: none;
 }
 .hleft a:hover{
-    color: lightgray;
+    color: gray;
 }
 .hright{
     margin-top: 5px;
@@ -120,6 +120,7 @@ marquee{
     padding-left: 70px;
 }
 .fcont{
+    text-align: left;
     width: 25%;
     padding-left: 50px;
     float: left;
